@@ -10,6 +10,7 @@ brew 'ffmpeg'
 brew 'coreutils' # Those that come with macOS are outdated
 brew 'gh'
 brew 'speedtest-cli'
+brew 'mackup'
 
 # Development
 brew 'python'

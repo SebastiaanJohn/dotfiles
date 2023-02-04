@@ -39,4 +39,4 @@ if [ ! -d "$HOME/Developer" ]; then
 fi
 
 # Set macOS preferences - we will run this last because this will reload the shell
-source $DOTFILES/.macos
+mackup restore
